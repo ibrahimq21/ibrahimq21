@@ -3,7 +3,7 @@
 **Address:** 0092 333 2636669
 **Email:** ibrahimq21@gmail.com, ibrahim.qureshi@sapphire.co
 
-##Who am i
+## Who am i
 
 
 Hello there! I'm Ibrahim Qureshi, a tech enthusiast and self-proclaimed code wizard(through my spells sometimes need a bit of debugging). With a passion for innovation and a penchant for tackling new challanges, I've had the pleasure of working with some of the most exiting tachnologies out there, including Flitter, Hyperledger Fabricc, and Generative AI.
@@ -13,7 +13,7 @@ From crafting beautiful, responsive mobile applications with Flutter to diving i
 While i like to think of myself as a jack of all trades in the tech world. i'm always learning and evolving. so if your looking for someone who's not affraid to roll up their sleeves. tackle complex problems, and maybe crack a joke or two along the way, then look further. let's create something amazing together!
 
 
-##Work Experience
+## Work Experience
 
 Sapphire Conslting Sevice | 2021 - current
 
@@ -30,9 +30,9 @@ Sapphire Conslting Sevice | 2021 - current
 **  Open Sourse Tools Like Sequelize ORM, Hyperledger Fabric
 **  python for AI model implementation and simulations.
 
-#Last but not least!
+# Last but not least!
 
-##Education
+## Education
 
 
 Graduation in BCS from university of sindh jamshoro campus recognized by HEC.
