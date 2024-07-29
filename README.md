@@ -6,28 +6,29 @@
 ## Who am i
 
 
-Hello there! I'm Ibrahim Qureshi, a tech enthusiast and self-proclaimed code wizard(through my spells sometimes need a bit of debugging). With a passion for innovation and a penchant for tackling new challanges, I've had the pleasure of working with some of the most exiting tachnologies out there, including Flitter, Hyperledger Fabricc, and Generative AI.
+Hello there! I'm Ibrahim Qureshi, a tech enthusiast and self-proclaimed code wizard(through my spells sometimes need a bit of debugging). With a passion for innovation and a penchant for tackling new challenges, I've had the pleasure of working with some of the most exiting technologies out there, including Flutter, Hyperledger Fabric, and Generative AI.
+From crafting beautiful, responsive mobile applications with Flutter to diving into the intricate world of blockchain with Hyperledger Fabric. My journey has been nothing short of an adventure. And let's not forget my recent foray into the realm of Generative AI, where I've been teaching machines to be creative (because who said humans get to have all the fun? 🤔)
+While i like to think of myself as a jack of all trades in the tech world. i'm always learning and evolving. so if you're looking for someone who's not afraid to roll up their sleeves. tackle complex problems, and maybe crack a joke or two along the way, then look further. Let's create something amazing together!
 
-From crafting beautiful, responsive mobile applications with Flutter to diving into the intricate world of blockchain with Hyperledger Fabric. my journey has been nothing short of an adventue. And let's not forget my recent foray into the realm of Generative AI, where i've been teaching machines to be creative (because who said humans get to have all the fun? 🤔)
 
-While i like to think of myself as a jack of all trades in the tech world. i'm always learning and evolving. so if your looking for someone who's not affraid to roll up their sleeves. tackle complex problems, and maybe crack a joke or two along the way, then look further. let's create something amazing together!
 
 
 ## Work Experience
 
-Sapphire Conslting Sevice | 2021 - current
+Sapphire Consulting Service | 2016 - current
 
-* Developed and publish multiple startups for inhouse projects.
-* Worked on a client side projects.
-* Providing a support system for client and eliminating Nasty Bugs.
-
-
-## Skils
+* Developed and published multiple startups for inhouse projects.
+* Worked on client side projects.
+* Providing a support system for clients and eliminating Nasty Bugs.
 
 
-*  javascipt
+
+## Skills
+
+
+*  javascript
 *  dart
-*  Open Sourse Tools Like Sequelize ORM, Hyperledger Fabric
+*  Open Source Tools Like Sequelize ORM, Hyperledger Fabric.
 *  python for AI model implementation and simulations.
 
 # Last but not least!
