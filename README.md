@@ -2,6 +2,7 @@
 
 **Address:** 0092 333 2636669
 **Email:** ibrahimq21@gmail.com, ibrahim.qureshi@sapphire.co
+**Linkedin:** https://www.linkedin.com/in/ibrahimq21/
 
 ## Who am i
 
