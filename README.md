@@ -41,7 +41,6 @@ Graduation in BCS from university of sindh jamshoro campus recognized by HEC.
 
 
 
-![banner](https://github.com/ibrahimq21/ibrahimq21/blob/main/1581261061586.jpg)
 
 <!--
 **ibrahimq21/ibrahimq21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
