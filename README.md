@@ -22,13 +22,13 @@ Sapphire Conslting Sevice | 2021 - current
 * Providing a support system for client and eliminating Nasty Bugs.
 
 
-##Skils
+## Skils
 
 
-**  javascipt
-**  dart
-**  Open Sourse Tools Like Sequelize ORM, Hyperledger Fabric
-**  python for AI model implementation and simulations.
+*  javascipt
+*  dart
+*  Open Sourse Tools Like Sequelize ORM, Hyperledger Fabric
+*  python for AI model implementation and simulations.
 
 # Last but not least!
 
