@@ -7,7 +7,9 @@
 
 
 Hello there! I'm Ibrahim Qureshi, a tech enthusiast and self-proclaimed code wizard(through my spells sometimes need a bit of debugging). With a passion for innovation and a penchant for tackling new challenges, I've had the pleasure of working with some of the most exiting technologies out there, including Flutter, Hyperledger Fabric, and Generative AI.
+
 From crafting beautiful, responsive mobile applications with Flutter to diving into the intricate world of blockchain with Hyperledger Fabric. My journey has been nothing short of an adventure. And let's not forget my recent foray into the realm of Generative AI, where I've been teaching machines to be creative (because who said humans get to have all the fun? 🤔)
+
 While i like to think of myself as a jack of all trades in the tech world. i'm always learning and evolving. so if you're looking for someone who's not afraid to roll up their sleeves. tackle complex problems, and maybe crack a joke or two along the way, then look further. Let's create something amazing together!
 
 
