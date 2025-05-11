@@ -24,6 +24,11 @@ Sapphire Consulting Service | 2016 - current
 * Worked on client side projects.
 * Providing a support system for clients and eliminating Nasty Bugs.
 
+## Work History With Chatgpt
+
+* https://chatgpt.com/share/681f9edf-d5d4-8007-ac6b-6c345026df65
+
+
 
 
 ## Skills
